@@ -1,4 +1,4 @@
-My very first web application created, using React.
+My very first web application created, using React. !
 
 To note:
 - There is no storage of tasks at the moment, tasks will disappear on refresh.
