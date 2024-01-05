@@ -111,7 +111,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Make a To-Do List!</h1>
+      <h1>Make a To-Do List! Updated</h1>
       <div className="Content">
         <TodoInput todo={todo} setTodo={setTodo} addTodo={addTodo} setTodos={setTodos} todos={todos}/>
         <TodoList todoList={todos} removeTodo={deleteTodo} />
